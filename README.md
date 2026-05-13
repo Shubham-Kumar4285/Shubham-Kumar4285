@@ -1,10 +1,8 @@
 # <div align="center">Shubham Kumar</div>
 
-<div align="center">
-
-### Building systems that scale better than my sleep schedule ☕
-
-</div>
+<p align="center">
+  <i>Building systems that scale better than my sleep schedule ☕</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8F5F0,100:EAE6DF&height=2&section=header"/>
