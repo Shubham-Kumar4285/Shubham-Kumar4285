@@ -99,7 +99,7 @@ AI-powered mental wellness platform.
 * Mood & journal tracking
 * Wellness tools & resources
 
-🔗 Repository Coming Soon
+🔗 <a href="https://github.com/Shubham-Kumar4285/Calmly">Repository</a>
 
 </td>
 <td width="50%">
