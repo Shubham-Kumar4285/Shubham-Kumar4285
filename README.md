@@ -6,45 +6,39 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8F5F0,100:EAE6DF&height=2&section=header"/>
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Interested+in+Scalable+Systems;Exploring+Hidden+Order+Inside+Complex+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=6B7280&center=true&vCenter=true&width=700&lines=software+developer;scalable+systems+%7C+backend+engineering;complex+systems+%7C+problem+solving;exploring+hidden+order+inside+chaos" alt="Typing SVG" />
 
 </div>
 
-## About Me
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=A6ADC8&center=true&vCenter=true&width=700&lines=shubham%40github%3A~%24+booting+systems...;shubham%40github%3A~%24+solving+complex+problems;shubham%40github%3A~%24+exploring+scalable+architectures;shubham%40github%3A~%24+finding+order+inside+chaos" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&p6B7280500&color=9CA3AF&center=true&vCenter=true&width=650&lines=shubham%40github%3A~%24+solving+complex+problems;shubham%40github%3A~%24+exploring+scalable+architectures;shubham%40github%3A~%24+finding+order+inside+chaos" alt="Terminal Typing" />
 
 </div>
 
 ```bash
-> whoami
-Shubham Kumar
-
-> current_role
+shubham@github:~$ whoami
 Software Developer
 
-> interests
-Scalable Systems
-Problem Solving
-Backend Engineering
-Complex Systems
+shubham@github:~$ focus
+Scalable Systems • Problem Solving
 
-> currently_learning
-System Design
-Distributed Systems
-Cloud Fundamentals
+shubham@github:~$ learning
+System Design • Distributed Systems
 
-> philosophy
+shubham@github:~$ philosophy
 "Order hidden inside chaos."
 ```
 
----
+<br>
 
 ## Tech Stack
 
@@ -54,7 +48,7 @@ Cloud Fundamentals
 
 </div>
 
----
+<br>
 
 ## Featured Projects
 
@@ -62,36 +56,30 @@ Cloud Fundamentals
 <tr>
 <td width="50%">
 
-### 🌍 VoyageX – AI Trip Planner
+### 🌍 VoyageX
 
-AI-powered trip planning application that generates personalized travel itineraries based on budget, travel style, and preferences.
+AI-powered trip planning platform.
 
-**Tech Stack:** React Native, Firebase, Expo
+**Stack:** React Native • Firebase • Expo
 
-**Highlights:**
-
-* AI-assisted itinerary generation
-* Smart travel planning workflow
-* Discover trending destinations
-* Cloud-based authentication & storage
+* Smart itinerary generation
+* Travel workflow automation
+* Cloud sync & authentication
 
 🔗 <a href="https://github.com/Shubham-Kumar4285/voyagex">Repository</a>
 
 </td>
 <td width="50%">
 
-### 🎬 ReelPick – Movie Recommender
+### 🎬 ReelPick
 
-Movie recommendation system powered by NLP and Machine Learning to generate personalized movie suggestions.
+NLP-powered movie recommendation system.
 
-**Tech Stack:** Python, Streamlit, NLP, Machine Learning
+**Stack:** Python • Streamlit • Machine Learning
 
-**Highlights:**
-
-* Content-based recommendation engine
-* Vectorization & similarity matching
-* TMDB movie dataset integration
-* Interactive recommendation interface
+* Recommendation engine
+* Vector similarity matching
+* TMDB dataset integration
 
 🔗 <a href="https://github.com/Shubham-Kumar4285/ReelPick">Repository</a>
 
@@ -101,36 +89,30 @@ Movie recommendation system powered by NLP and Machine Learning to generate pers
 <tr>
 <td width="50%">
 
-### 🧠 Calmly – AI Mental Wellness App
+### 🧠 Calmly
 
-AI-powered mental wellness platform focused on mood tracking, journaling, and personalized emotional insights. fileciteturn1file1L1-L1
+AI-powered mental wellness platform.
 
-**Tech Stack:** React, FastAPI, PostgreSQL, Gemini AI
+**Stack:** React • FastAPI • PostgreSQL • Gemini AI
 
-**Highlights:**
-
-* AI-generated emotional insights
+* AI emotional insights
 * Mood & journal tracking
-* Wellness games & mindfulness tools
-* Secure JWT authentication
+* Wellness tools & resources
 
 🔗 Repository Coming Soon
 
 </td>
 <td width="50%">
 
-### ✨ Modern Portfolio Website
+### ✨ Portfolio Website
 
-Interactive cinematic portfolio website featuring advanced animations, glassmorphism, and smooth UX interactions. fileciteturn1file0L1-L1
+Interactive cinematic portfolio experience.
 
-**Tech Stack:** Next.js 15, TypeScript, GSAP, Framer Motion
-
-**Highlights:**
+**Stack:** Next.js 15 • GSAP • Framer Motion
 
 * 3D layered hero section
 * Smooth parallax animations
 * Glassmorphic UI design
-* Fully responsive architecture
 
 🔗 <a href="https://portfolio-shubham-seven.vercel.app/">Live Demo</a>
 
@@ -138,52 +120,54 @@ Interactive cinematic portfolio website featuring advanced animations, glassmorp
 </tr>
 </table>
 
----
+<br>
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubham-Kumar4285&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubham-Kumar4285&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubham-Kumar4285&show_icons=true&theme=github_light&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubham-Kumar4285&layout=compact&theme=github_light&hide_border=true&border_radius=12" alt="Top Languages" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubham-Kumar4285&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shubham-Kumar4285&theme=github_light&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </div>
 
----
+<br>
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/shubham-kumar-98aaa7255" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://twitter.com/@shubham0056572" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="42" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://dev.to/shubhamkumar4285" target="_blank">
-  <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="42" />
+  <img src="https://cdn.simpleicons.org/devdotto/A6ADC8" height="38" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:shubham124285@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-⚡ Fun fact: I’m usually more interested in how things work than just using them.
+⚡ I’m usually more interested in how things work than just using them.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
